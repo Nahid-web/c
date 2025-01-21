@@ -112,7 +112,7 @@ bool isArmstrongNumber(int number) {
   return sum == number;
 }
 
-//main function
+// main function
 int main() {
   int num;
   printf("Enter any Number\n");
